@@ -1,0 +1,4 @@
+# Unpack a tuple into several variables
+tup4 = ("apple", "banana", "cherry")
+a, b, c = tup4
+print(a, b, c)
