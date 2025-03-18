@@ -1,0 +1,3 @@
+#  Find the index of an item in a tuple
+tup14 = ('x', 'y', 'z')
+print(tup14.index('y'))
