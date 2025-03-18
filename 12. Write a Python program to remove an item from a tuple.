@@ -1,0 +1,4 @@
+# Remove an item from a tuple
+tup12 = (1, 2, 3, 4)
+tup12 = tuple(x for x in tup12 if x != 3)
+print(tup12)
