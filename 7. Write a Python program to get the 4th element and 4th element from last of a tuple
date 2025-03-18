@@ -1,0 +1,3 @@
+#  Get the 4th element and 4th from last
+tup7 = (10, 20, 30, 40, 50, 60, 70)
+print(tup7[3], tup7[-4])
